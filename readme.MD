@@ -64,8 +64,6 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
-
 
 iv)	Creating the new test cell view
 •	Go to CIW window, Execute File-New-Cell view
