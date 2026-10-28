@@ -31,6 +31,7 @@ i)	Procedure for Creating New Library.
 •	Name : Give name for ur library Ex: VLSILAB_EXP_1
 •	Enable Attach to an existing technology library, Click OK
 •	Attach the library to the technology library gpdk045.Click OK
+
 ii)	Create Schematic Cell view.
 •	Go to 1st window i.e virtuoso(CIW)
 •	File-New-Cell view
